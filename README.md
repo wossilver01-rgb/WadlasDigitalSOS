@@ -1,2 +1,2 @@
 # WadlasDigitalSOS
-desenvolvimento do meu site
+desenvolvendo portifólio.
